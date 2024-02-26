@@ -13,4 +13,4 @@ export default function Article({ title, paragraphs }) {
 			})}
 		</>
 	)
-}
+}s
